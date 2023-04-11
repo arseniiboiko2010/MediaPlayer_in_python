@@ -1,2 +1,2 @@
 # MediaPlayer_in_python
-installing python, vlc-python and PyQT5
+Using python, vlc-python and PyQT5.
